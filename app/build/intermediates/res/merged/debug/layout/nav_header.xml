@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="150sp"
+    android:background="#1E90FF">
+    
+  <com.pkmmte.view.CircularImageView
+      android:id="@+id/civ"
+      android:layout_width="72dp"
+      android:layout_height="72dp"
+      android:src="@drawable/ic_launcher"
+      android:layout_margin="16dp"
+      android:layout_marginLeft="2dp"
+      android:layout_marginRight="8dp"
+      android:layout_marginBottom="32dp"
+      android:layout_marginTop="40dp"
+      app:border="false"
+      app:border_color="#EEEEEE"
+      app:border_width="2dp"
+      app:shadow="true"
+      android:layout_gravity="center"
+
+      />
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical"
+       android:layout_marginTop="10dp"
+       >
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="WELCOME!"
+           android:textColor="#ffffff"
+           android:textAppearance="?android:textAppearanceLarge"
+           android:layout_weight="1"
+           android:gravity="right"/>
+
+       <TextView
+           android:id="@+id/nameinheader"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="AKASH"
+           android:textColor="#ffffff"
+           android:textAppearance="?android:textAppearanceMedium"
+           android:layout_weight="1"
+           android:gravity="right"
+           />
+
+       <View
+           android:layout_width="match_parent"
+           android:layout_height="2dp"
+           android:background="#c2c2b3"
+           />
+
+       <TextView
+           android:id="@+id/emailinheader"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="akash.verma926@gmail.com"
+           android:textColor="#ffffff"
+           android:textAppearance="?android:textAppearanceSmall"
+           android:layout_weight="1"
+           android:gravity="right"
+           android:textStyle="italic"/>
+
+   </LinearLayout>
+
+</LinearLayout><!-- From: file:/C:/Users/Akash/AndroidStudioProjects/Project/app/src/main/res/layout/nav_header.xml -->

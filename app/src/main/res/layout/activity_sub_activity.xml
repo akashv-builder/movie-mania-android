@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:background="#1E90FF"
+        android:id="@+id/toolbar"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:theme="@style/toolbarstyle" />
+
+    <TextView
+        android:gravity="center_horizontal|center_vertical"
+        android:id="@+id/tvvv"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:layout_width="match_parent"
+        android:text="IF ANY BUG FOUND OR FOR MORE INFORMATION CONTACT TO:-"
+        android:textAppearance="@android:style/TextAppearance.Large"
+         />
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:layout_width="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="akash.verma926@gmail.com"
+
+            android:textAppearance="@android:style/TextAppearance.Medium"
+
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="OR"
+
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="pankhurichadha600@gmail.com"
+            android:textAppearance="@android:style/TextAppearance.Medium"
+
+            android:textStyle="bold|italic" />
+    </LinearLayout>
+
+    <com.google.android.gms.ads.AdView
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_home_footer"
+        android:id="@+id/adView"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent" />
+</LinearLayout>

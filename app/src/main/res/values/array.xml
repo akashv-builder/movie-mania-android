@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="colors">
+
+
+
+        <item>@color/DarkOrchid</item>
+        <item>@color/Tomato</item>
+        <item>@color/Orange</item>
+        <item>@color/MediumSeaGreen</item>
+        <item>@color/MediumPurple</item>
+        <item>@color/DodgerBlue</item>
+        <item>@color/OrangeRed</item>
+        <item>@color/BlueViolet</item>
+        <item>@color/Violet</item>
+        <item>@color/Teal</item>
+
+
+    </string-array>
+
+</resources>

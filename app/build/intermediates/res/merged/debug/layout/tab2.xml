@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/fragment2">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/searchPlateId"
+
+        >
+
+
+
+        <SearchView
+            android:id="@+id/searchView1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/DodgerBlue"
+            android:layout_margin="10dp"
+            android:elevation="2dp"
+            android:searchIcon="@drawable/search"
+            android:queryHint="Search Here"
+            android:queryBackground="@color/white"
+            android:voiceIcon="@drawable/search"
+            android:iconifiedByDefault="false"
+            android:voiceSearchMode="showVoiceSearchButton|launchRecognizer">
+
+        </SearchView>
+
+    </LinearLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <android.support.v7.widget.RecyclerView
+
+            android:id="@+id/listMovieHitssearch"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"/>
+
+        <TextView
+            android:id="@+id/textVolleyErrorsearch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+
+            android:textAppearance="@android:style/TextAppearance.Medium"
+            android:visibility="gone"/>
+
+        <ProgressBar
+            android:id="@+id/progressbarforsearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="40sp" />
+
+
+    </FrameLayout>
+</LinearLayout><!-- From: file:/C:/Users/Akash/AndroidStudioProjects/Project/app/src/main/res/layout/tab2.xml -->

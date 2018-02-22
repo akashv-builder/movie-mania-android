@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fillColor">#2196F3</color>
+    <color name="strokeColor">#ffffff</color>
+    <declare-styleable name="FillableLoader"><attr format="color" name="fl_fillColor"/><attr format="color" name="fl_strokeColor"/><attr format="dimension" name="fl_strokeWidth"/><attr format="integer" name="fl_originalWidth"/><attr format="integer" name="fl_originalHeight"/><attr format="integer" name="fl_strokeDrawingDuration"/><attr format="integer" name="fl_fillDuration"/><attr format="integer" name="fl_fillPercentage"/><attr format="enum" name="fl_clippingTransform"><enum name="plain" value="0"/><enum name="spikes" value="1"/><enum name="rounded" value="2"/><enum name="waves" value="3"/><enum name="squares" value="4"/><enum name="bites" value="5"/></attr></declare-styleable>
+    <dimen name="fourthSampleStrokeWidth">2dp</dimen>
+    <dimen name="fourthSampleViewSize">185dp</dimen>
+    <dimen name="strokeWidth">1dp</dimen>
+    <integer name="fillDuration">2000</integer>
+    <integer name="fillPercentage">100</integer>
+    <integer name="strokeDrawingDuration">1000</integer>
+    <string name="app_name">library</string>
+</resources>

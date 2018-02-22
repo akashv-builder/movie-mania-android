@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\volley-1e8194e3fba8df4db16b2359ff61351368ba5fbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.github.jorgecastilloprz\fillableloaders\1.03\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3633e7c413515440302d548cd00d1032e3fd537f">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-b28d2452377f34b9385eeb45486a6817aea6f34d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-00d94afd20f228a2c9b422aca623c68efefef6cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-058743b7769f2e2a55e0cc4f7558bd7654f96133.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0-49e6111c128115323b9282c0370df438d573a633.jar" />
+    </item>
+    <item
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0-8028dfe3be197b741d6cb061f70adbc0413dc2bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.github.ozodrukh\CircularReveal\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e3a3d62fab67ccb83f386a4c092bfb5747ea15a7">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-59b31df4860dddd3861a5f5c402726cbeb3f686f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-0e38056d783e616131ff480bcbb6efd05f4e222e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-833d5da99ea75b928702a58ab7e43b43c909f262.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\picasso-2.4.0-1e8c881a085988d7b7d22c7f321b7725c2e45ec7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-8e32bfde639dc4eaa0c5103f3cf3d29e5f00ac2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.balysv\material-ripple\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-b205e07e48dd65b6a4752def7ae91619dd9cac7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-8d1336daa27bb78bb2597239aa1be6e201b61c10.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\me.biubiubiu.justifytext\library\1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69ee8c3f146ba6b2ead91fea61a283b19cfbf387">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-de8398c9d05563f65af49d5225862026bd5a41f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\library-2.4.0-865828b766e0e194922b5133fde231e0f819c26d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.0\a7537446a030da8eb0da4c71424d16c2589f6c4a\glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\glide-3.6.0-4a1b913b7318da36a1009a806a2b6d6d302e02a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.github.ViksaaSkool\AwesomeSplash\v1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6924ef2127a1fb106d13d701c25b2688223c0fad">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-9a49978e583a649fa32b9d7807bf68ab5df17351.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\YouTubeAndroidPlayerApi-a17ab6ad2af806c212341215e05271a5ed273e40.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.pkmmte.view\circularimageview\1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c341a7ad32bc2eef9dcfab239262b77ac60788cc">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-92e2b7b69e79a2403b7fab859f8aee91c1131f5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-287be083ea0bce20103d61b071b68fcbad5c8302.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-2865a5532ba88293cbc368668ddd3894881b633c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-4257e9e371382c5185dadbe10dea3e7e79d106f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-7d96cfe730da5727d5c006c9c7495e1f0caa07d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-0780d85d4a99baf3325d9e493332b8aa85cd4f70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.oguzdev\CircularFloatingActionMenu\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-34f14090f58ddf735bca84643b5a7636141e9a84.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\exploded-aar\com.badoo.mobile\android-weak-handler\1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7a2dafc6ef58bed3ca9a9a1fb5c5a42624b379a3">
+        <dex dex="C:\Users\Akash\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\release\classes-71364f0b7acb1e35e60127b4d6371c9e2ac9f874.jar" />
+    </item>
+
+</items>

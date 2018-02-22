@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<com.balysv.materialripple.MaterialRippleLayout
+
+    android:background="@color/transparent"
+    android:descendantFocusability="afterDescendants"
+    android:focusable="false"
+    android:focusableInTouchMode="false"
+    android:id="@+id/ripple"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    app:mrl_rippleAlpha="0.1"
+    app:mrl_rippleDelayClick="true"
+    app:mrl_rippleHover="true"
+    app:mrl_rippleOverlay="true"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:id="@+id/r1"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:minHeight="50dp"
+       >
+
+        <ImageView
+            android:id="@+id/movieTumbnail"
+            android:layout_height="100dp"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_width="130dp"
+            android:src="@drawable/thumbnail1" />
+
+        <TextView
+            android:gravity="right"
+            android:id="@+id/movieTitle"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@id/movieTumbnail"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/movieTumbnail"
+            android:layout_width="wrap_content"
+            android:padding="4dp"
+            android:text="abc"
+
+            android:textSize="20dp" />
+
+        <TextView
+            android:gravity="right"
+            android:id="@+id/movieReleaseDate"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/movieTitle"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="56dp"
+            android:layout_toRightOf="@id/movieTumbnail"
+            android:layout_width="wrap_content"
+            android:padding="4dp"
+            android:text="31-31-31"
+
+            android:textSize="20dp" />
+
+        <RatingBar
+
+            android:id="@+id/movieAudienceScore"
+            android:isIndicator="true"
+            style="@android:style/Widget.Holo.Light.RatingBar.Indicator"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/movieReleaseDate"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:max="7"
+            android:numStars="0" />
+
+        <View
+            android:background="#c2c2b3"
+            android:layout_alignParentBottom="true"
+            android:layout_alignRight="@id/movieReleaseDate"
+            android:layout_height="2dp"
+            android:layout_weight="1.0"
+            android:layout_width="match_parent"/>
+    </RelativeLayout>
+</com.balysv.materialripple.MaterialRippleLayout>
+<!-- From: file:/C:/Users/Akash/AndroidStudioProjects/Project/app/src/main/res/layout/custom_movie_view.xml -->
